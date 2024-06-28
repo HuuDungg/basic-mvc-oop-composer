@@ -1,0 +1,13 @@
+{
+  "name": "huudung/train-mvc",
+  "description": "try to become better",
+  "type": "library",
+  "require": {
+    "phpmailer/phpmailer": "^6.5"
+  },
+  "autoload": {
+      "psr-4": {
+          "App\\": "./"
+      }
+  }
+}
